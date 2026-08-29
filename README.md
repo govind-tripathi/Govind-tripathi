@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi! I'm Govind Tripathi
 
-<!--
-**govind-tripathi/Govind-tripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | Web Development Enthusiast | Learning & Building**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🐍 Python programmer - passionate about coding
+- 📚 Currently learning Python, Web Development & Data Structures
+- 💡 Problem solver who loves building projects
+- 🎯 Motivated to learn new technologies
+- 🤝 Open to collaborations and learning opportunities
+
+---
+
+## 💻 Tech Stack I'm Learning
+```python
+Languages: Python 🐍
+Frontend: HTML, CSS, JavaScript
+Tools: Git, GitHub
+Currently: Building Python Projects
