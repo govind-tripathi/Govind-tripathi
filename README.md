@@ -15,7 +15,8 @@
 
 ## 💻 Tech Stack I'm Learning
 ```python
-Languages: Python 🐍
-Frontend: HTML, CSS, JavaScript
+Languages: Python, SQL
+Frontend: HTML, CSS
+Database: SQLite
 Tools: Git, GitHub
-Currently: Building Python Projects
+Currently: Building Python and Database Projects
